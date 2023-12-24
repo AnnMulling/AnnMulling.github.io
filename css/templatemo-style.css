@@ -459,6 +459,8 @@ a#logo {
   margin-top: 5rem;
   padding: 10px;
   position:relative;
+  width: 400px;
+  height: 500px;
 }
 .about-img img {
   border-radius: 10px;
